@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/D:/learning/OLC_DSA/Problem_Solving_With_DSA/]" external.linked.project.path="$MODULE_DIR$/../../Problem_Solving_With_DSA" external.root.project.path="$MODULE_DIR$/../../Problem_Solving_With_DSA" external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../Problem_Solving_With_DSA/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../Problem_Solving_With_DSA/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Problem_Solving_With_DSA">
+      <sourceFolder url="file://$MODULE_DIR$/../../Problem_Solving_With_DSA/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Problem_Solving_With_DSA/src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Problem_Solving_With_DSA/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: com.opencsv:opencsv:5.7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-beanutils:commons-beanutils:1.9.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-collections:commons-collections:3.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-logging:commons-logging:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-collections4:4.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-lang3:3.12.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-text:1.10.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.17:jar" level="project" />
+  </component>
+</module>
