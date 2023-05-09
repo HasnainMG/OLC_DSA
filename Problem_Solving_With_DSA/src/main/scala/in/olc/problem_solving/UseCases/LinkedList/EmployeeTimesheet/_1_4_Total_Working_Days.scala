@@ -7,9 +7,9 @@ import scala.io.Source
 
 object _1_4_Total_Working_Days {
   def main(args: Array[String]): Unit = {
-    val filePath = "datasets/employee_timesheet.csv"
-    val missingDatesFilePath = "datasets/missingDates.csv"
-    val holidayFile = Source.fromFile("datasets/company_holidays.txt")
+    val filePath = "Problem_Solving_With_DSA/src/main/resources/datasets/employee_timesheet.csv"
+    val missingDatesFilePath = "Problem_Solving_With_DSA/src/main/resources/datasets/missingDates.csv"
+    val holidayFile = Source.fromFile("Problem_Solving_With_DSA/src/main/resources/datasets/company_holidays.txt")
 
     val reader = new CSVReaderBuilder(new FileReader(filePath)).withSkipLines(1).build()
 

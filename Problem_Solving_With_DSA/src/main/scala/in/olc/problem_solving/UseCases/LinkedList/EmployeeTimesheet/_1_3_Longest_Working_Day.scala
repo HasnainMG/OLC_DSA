@@ -6,8 +6,8 @@ import java.io.FileReader
 
 object _1_3_Longest_Working_Day {
   def main(args: Array[String]): Unit = {
-    val filePath = "datasets/employee_timesheet.csv"
-    val missingDatesFilePath = "datasets/missingDates.csv"
+    val filePath = "Problem_Solving_With_DSA/src/main/resources/datasets/employee_timesheet.csv"
+    val missingDatesFilePath = "Problem_Solving_With_DSA/src/main/resources/datasets/missingDates.csv"
 
     val reader = new CSVReaderBuilder(new FileReader(filePath)).withSkipLines(1).build()
 

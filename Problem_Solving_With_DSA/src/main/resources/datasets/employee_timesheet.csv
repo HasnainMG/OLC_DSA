@@ -1,0 +1,31 @@
+empId,project_name,task,working_hours,date
+EMP001,Hess Corporation,Reporting,0,2023-04-01
+EMP001,"LTC Properties, Inc.",Business,9,2023-04-02
+EMP001,Ternium S.A.,Reporting,4,2023-04-03
+EMP001,Nustar Energy L.P.,Business,10,2023-04-04
+EMP001,"Washington Federal, Inc.",Discovery,7,2023-04-05
+EMP001,"Synthetic Fixed-Income Securities, Inc.",Business,7,2023-04-06
+EMP001,Fifth Street Asset Management Inc.,Reporting,10,2023-04-07
+EMP001,KKR Income Opportunities Fund,Reporting,6,2023-04-08
+EMP001,"RLJ Entertainment, Inc.",Discovery,8,2023-04-09
+EMP001,"Ottawa Bancorp, Inc.",Reporting,4,2023-04-10
+EMP001,"Ascent Capital Group, Inc.",Reporting,9,2023-04-11
+EMP001,American Vanguard Corporation,Reporting,0,2023-04-12
+EMP001,Park-Ohio Holdings Corp.,Integration,10,2023-04-13
+EMP001,New Residential Investment Corp.,Integration,6,2023-04-14
+EMP001,Westmoreland Coal Company,Discovery,7,2023-04-15
+EMP001,"Chanticleer Holdings, Inc.",Reporting,3,2023-04-16
+EMP001,"FormFactor, Inc.",Business,8,2023-04-17
+EMP001,Stepan Company,Reporting,8,2023-04-18
+EMP001,Internap Corporation,Discovery,4,2023-04-19
+EMP001,Zions Bancorporation,Discovery,0,2023-04-20
+EMP001,Banco Bradesco Sa,Discovery,4,2023-04-21
+EMP001,Hornbeck Offshore Services,Integration,6,2023-04-22
+EMP001,"Square, Inc.",Reporting,9,2023-04-23
+EMP001,"CommerceHub, Inc.",Discovery,11,2023-04-24
+EMP001,"TJX Companies, Inc. (The)",Reporting,8,2023-04-25
+EMP001,Wright Medical Group N.V.,Discovery,7,2023-04-26
+EMP001,TD Ameritrade Holding Corporation,Reporting,9,2023-04-27
+EMP001,NOW Inc.,Integration,4,2023-04-28
+EMP001,Sony Corp Ord,Business,9,2023-04-29
+EMP001,Rice Midstream Partners LP,Business,9,2023-04-30
