@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/OLC_DSA.iml" filepath="$PROJECT_DIR$/.idea/OLC_DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problem_Solving_With_DSA.iml" filepath="$PROJECT_DIR$/.idea/modules/Problem_Solving_With_DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem_Solving_With_DSA/.idea/modules/Problem_Solving_With_DSA-build.iml" filepath="$PROJECT_DIR$/Problem_Solving_With_DSA/.idea/modules/Problem_Solving_With_DSA-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem_Solving_With_DSA/.idea/modules/project.Problem_Solving_With_DSA-build.iml" filepath="$PROJECT_DIR$/Problem_Solving_With_DSA/.idea/modules/project.Problem_Solving_With_DSA-build.iml" />
     </modules>
   </component>
 </project>
