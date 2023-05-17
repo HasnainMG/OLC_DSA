@@ -1,5 +1,6 @@
 UseCase 1:
-Below is the employees multiple entry exit to and from office
+
+Given employees multiple entry exit to and from office
 
 Question 1: find the first entry and last exit time for each employee.
 
