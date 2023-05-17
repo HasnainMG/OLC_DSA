@@ -1,6 +1,6 @@
 package in.olc.problem_solving.Sorting
 
-object InsertionSorting {
+object _1_1_InsertionSorting {
   def main(args: Array[String]): Unit = {
     val arr = Array(5,4,10,1,6,2)
     for(i <- 1 until arr.length){

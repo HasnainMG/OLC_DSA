@@ -1,6 +1,6 @@
 package in.olc.problem_solving.Sorting
 
-object BubbleSorting {
+object _1_1_BubbleSorting {
   def main(args: Array[String]): Unit = {
     val arr = Array(16,14,5,6,8)
     val n = arr.length - 1
