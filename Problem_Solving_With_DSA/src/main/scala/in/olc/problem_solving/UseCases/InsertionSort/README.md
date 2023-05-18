@@ -1,5 +1,5 @@
 Use case:
-* Consider below timesheet in which employee inputs his daily working hours.
+* Consider below timesheet in which employee enters his daily working hours.
 * Records are inserted based on inserted date. 
 * Dates **2023-04-08, 2023-04-12, 2023-04-19** were entered non serially as these were missed by the employee.
 * Rearrange the records based on increasing order of dates.
