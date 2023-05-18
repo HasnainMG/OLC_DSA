@@ -37,6 +37,7 @@ object _1_1_ReorderTimesheet {
   }
   def main(args: Array[String]): Unit = {
     val arrBuffer = scala.collection.mutable.ArrayBuffer[Entry]()
+    // Reading file
     val filePath = "Problem_Solving_With_DSA/src/main/resources/datasets/sorting_timesheet.csv"
     val file = scala.io.Source.fromFile(filePath)
     for(line <- file.getLines().drop(1)){
@@ -44,8 +45,11 @@ object _1_1_ReorderTimesheet {
       arrBuffer.append(Entry(values(0),values(1).toFloat))
     }
     file.close()
+
     val timesheetArray = arrBuffer.toArray[Entry]
+
     val entryArr = insertionSort(timesheetArray).map(value => s"${value.date},${value.hours}")
+
     entryArr.foreach(println)
   }
 }
