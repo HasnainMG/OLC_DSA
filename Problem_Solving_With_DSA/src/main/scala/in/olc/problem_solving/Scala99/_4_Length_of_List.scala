@@ -15,6 +15,5 @@ object _4_Length_of_List {
   def main(args: Array[String]): Unit = {
     val li = List(1, 1, 2, 3, 5, 8)
     println(length(li))
-
   }
 }
